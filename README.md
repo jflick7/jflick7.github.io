@@ -6,7 +6,8 @@
 - I’m now excited to bring together that industry experience with my engineering studies to contribute to innovative technical solutions that have real-world impact.
 
 # Highlights
-- Created an arcade game with C# in Godot IDE [Project Files](https://github.com/me50/jflick7)
+- Created an arcade game with C# in Godot IDE
+     [Project Files](https://github.com/me50/jflick7)
 - Programmed protocols for liquid handler and colony picker hardware for lab process automation.
 - Trained associates on liquid handler and colony picker usage and maintenance.
 - Scaled down assay methods while maintaining consistent enzyme expression.
