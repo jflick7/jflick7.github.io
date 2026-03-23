@@ -16,3 +16,6 @@
 - Managed multiple projects with adherence to timelines and success criteria.
 - Presented project updates to team members and key stakeholders.
 - Utilized JMP statistical software for data analysis and designing experiments.
+
+# Resume
+[View my Resume](https://github.com/jflick7/jflick7.github.io/blob/496148a66f09e5c8d43964c0c4b49b68b03f1cdb/James%20Flickinger%20Resume.pdf)
